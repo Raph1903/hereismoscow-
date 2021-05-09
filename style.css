@@ -9,7 +9,7 @@ body {
  background-image: url(https://wallpapertag.com/wallpaper/full/8/b/7/619583-wood-desktop-backgrounds-1920x1200-for-samsung-galaxy.jpg);
  background-size:350%;
 }
-
+html { overflow-y: hidden; } 
 img {
   border: 5px solid #555;
 }
